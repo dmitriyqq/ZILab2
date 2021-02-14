@@ -91,7 +91,7 @@ namespace ZILab2
             this.Controls.Add(this.decodeButton);
             this.Controls.Add(this.encodeButton);
             this.Name = "Form1";
-            this.Text = "ZILab1";
+            this.Text = "ZILab2";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
